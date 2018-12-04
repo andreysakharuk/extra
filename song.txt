@@ -1,2 +1,4 @@
-[A[B[A[B[A[B[Bfirst line
+first line
 second line
+third line
+forth line
